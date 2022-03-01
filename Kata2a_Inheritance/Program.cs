@@ -1,7 +1,7 @@
 ﻿using Kata2a_Inheritance;
 
 #region Kata test of Member and MemberList
-Console.WriteLine("Create a couple of members");
+Console.WriteLine("Create a couple of membersa");
 var member1 = Member.Factory.CreateWithRandomData();
 Console.WriteLine($"member1: {member1}");
 var member2 = Member.Factory.CreateWithRandomData();
